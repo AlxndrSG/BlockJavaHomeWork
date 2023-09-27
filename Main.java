@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Raffle r = new Raffle();
+        Function r = new Function();
         Scanner sc = new Scanner(System.in);
         while (true) {
             System.out.print("""
